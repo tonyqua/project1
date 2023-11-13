@@ -1,5 +1,5 @@
-# project1
-Convert Decimal Number to Binary
+// project1
+// Convert Decimal Number to Binary
     
     #include <iostream>
     int main() {
